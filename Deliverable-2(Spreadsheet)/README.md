@@ -2,7 +2,7 @@
 
 ## How to run
 - Java 17+.
-- Open the project in IntelliJ and run **`Program`** (text menu):
+- Open the project in IntelliJ and run **`Program`** :
   - `javac *.java`
   - `java Program`
 
